@@ -1,0 +1,9 @@
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ConversorPNGparaICO\ConversorPNGparaICO\bin\Debug\ConversorPNGparaICO.exe.config
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ConversorPNGparaICO\ConversorPNGparaICO\bin\Debug\ConversorPNGparaICO.exe
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ConversorPNGparaICO\ConversorPNGparaICO\bin\Debug\ConversorPNGparaICO.pdb
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ConversorPNGparaICO\ConversorPNGparaICO\obj\Debug\ConversorPNGparaICO.Form1.resources
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ConversorPNGparaICO\ConversorPNGparaICO\obj\Debug\ConversorPNGparaICO.Properties.Resources.resources
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ConversorPNGparaICO\ConversorPNGparaICO\obj\Debug\ConversorPNGparaICO.csproj.GenerateResource.Cache
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ConversorPNGparaICO\ConversorPNGparaICO\obj\Debug\ConversorPNGparaICO.exe
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ConversorPNGparaICO\ConversorPNGparaICO\obj\Debug\ConversorPNGparaICO.pdb
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\ConversorPNGparaICO\ConversorPNGparaICO\obj\Debug\ConversorPNGparaICO.csprojResolveAssemblyReference.cache
