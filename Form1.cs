@@ -35,13 +35,17 @@ namespace ConversorPNGparaICO
                     string x2 = openFileDialog1.SafeFileName; //nome e extensão do arquivo
                     x2 = x2.Remove(x2.Length - 4);
                     string y = folderBrowserDialog1.SelectedPath; //path do diretório de saída
-                    using (System.IO.FileStream stream = System.IO.File.OpenWrite(y + "\\" + x2 + ".ico"))
+                    string y2 = y + "\\" + x2 + ".ico";
+                    using (System.IO.FileStream stream = System.IO.File.OpenWrite(y2))
                     {
                         Bitmap bitmap = (Bitmap)Image.FromFile(x);
                         Icon.FromHandle(bitmap.GetHicon()).Save(stream);
                     }
+                    Icon iconSaida = new Icon(y2);
+                    Bitmap bmpSaida = iconSaida.ToBitmap();
                     pictureBox1.ImageLocation = x;
-                    MessageBox.Show("Imagem convertida com sucesso.");
+                    pictureBox2.Image = bmpSaida;
+                    MessageBox.Show("Imagem convertida com sucesso.");                    
                 }
             }
         }
